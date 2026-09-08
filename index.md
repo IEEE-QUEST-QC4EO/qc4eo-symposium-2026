@@ -112,7 +112,7 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  <p>Full list TBD<p>
+  <p>The full list of speakers will appear soon<p>
 </section>
 
 <section id="committee">
