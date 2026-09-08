@@ -30,6 +30,23 @@ layout: default
   </div>
 </section>
 
+<section id="deadlines">
+  <div class="section-inner">
+    <p class="section-label">Important Dates</p>
+    <h2 class="section-title">Registration deadlines</h2>
+    <div class="people-grid">
+      <div class="person-card">
+        <p class="person-name">September 25, 2026</p>
+        <p class="person-affiliation">Registration with poster submission</p>
+      </div>
+      <div class="person-card">
+        <p class="person-name">September 30, 2026</p>
+        <p class="person-affiliation">Registration without poster</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section id="topics">
   <div class="section-inner">
     <p class="section-label">Covered Topics</p>
