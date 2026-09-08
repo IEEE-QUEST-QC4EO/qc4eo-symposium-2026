@@ -112,8 +112,12 @@ layout: default
       {% endfor %}
     </div>
   </div>
-  <p>The full list of speakers will appear soon<p>
+  <div class="callout">
+      <p>The full list of speakers will appear soon<p>
+    </div>
 </section>
+
+
 
 <section id="committee">
   <div class="section-inner">
