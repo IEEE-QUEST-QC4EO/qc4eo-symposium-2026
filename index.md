@@ -110,10 +110,9 @@ layout: default
           <p class="person-web"><a href="{{ s.web }}" target="_blank" rel="noopener">About</a></p>
         </div>
       {% endfor %}
-
-      <p>Full list TBD<p>
     </div>
   </div>
+  <p>Full list TBD<p>
 </section>
 
 <section id="committee">
