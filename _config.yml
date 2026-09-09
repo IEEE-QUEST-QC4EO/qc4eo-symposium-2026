@@ -70,6 +70,10 @@ speakers:
     affiliation: "NCAC"
     photo: "/assets/img/speakers/pgawron.jpg"
     web: "https://piotrgawron.eu/bio/"
+  - name: "Dr. Johannes Jakubik"
+    affiliation: "IBM"
+    photo: "/assets/img/speakers/jjakubik.png"
+    web: "https://www.linkedin.com/in/dr-johannes-jakubik-8763ba167/"
 
 sponsors:
   - name: "IEEE"
