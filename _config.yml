@@ -74,6 +74,10 @@ speakers:
     affiliation: "IBM"
     photo: "/assets/img/speakers/jjakubik.png"
     web: "https://www.linkedin.com/in/dr-johannes-jakubik-8763ba167/"
+  - name: "Dr. Artur Miroszewski"
+    affiliation: "ESA"
+    photo: "/assets/img/speakers/amiroszewski.jpeg"
+    web: "https://pl.linkedin.com/in/artur-miroszewski-926409214"
 
 sponsors:
   - name: "IEEE"
