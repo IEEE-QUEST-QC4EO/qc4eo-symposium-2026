@@ -89,7 +89,7 @@ sponsors:
     logo: "/assets/img/logos/diet-logo.jpeg"
     url: "https://diet.web.uniroma1.it/"
   - name: "University of Sannio"
-    logo: "/assets/img/logos/unisannio.eps"
+    logo: "/assets/img/logos/unisannio.png"
     url: "https://www.unisannio.it/it"
 
 markdown: kramdown
