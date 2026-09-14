@@ -95,6 +95,9 @@ sponsors:
   - name: "University of Sannio"
     logo: "/assets/img/logos/unisannio.png"
     url: "https://www.unisannio.it/it"
+  - name: "CMCC"
+		logo: "/assets/img/logos/cmcc.png"
+    url: "https://www.cmcc.it/it"
 
 markdown: kramdown
 plugins:
