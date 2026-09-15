@@ -78,6 +78,10 @@ speakers:
     affiliation: "ESA"
     photo: "/assets/img/speakers/amiroszewski.jpeg"
     web: "https://pl.linkedin.com/in/artur-miroszewski-926409214"
+  - name: "Prof. Lirandë Pira"
+    photo: "National University of Singapore"
+    photo: "/assets/img/speakers/lpira.jpeg"
+    web: "https://www.linkedin.com/in/lirandepira/"
 
 sponsors:
   - name: "IEEE"
