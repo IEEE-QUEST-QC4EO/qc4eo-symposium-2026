@@ -82,6 +82,10 @@ speakers:
     affiliation: "National University of Singapore"
     photo: "/assets/img/speakers/lpira.jpeg"
     web: "https://www.linkedin.com/in/lirandepira/"
+  - name: "Fan Fan"
+    affiliation: "DLR"
+    photo: "/assets/img/speakers/fan.jpeg"
+    web: "https://www.linkedin.com/in/fan-fan-900251160/"
 
 sponsors:
   - name: "IEEE"
