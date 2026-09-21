@@ -93,7 +93,7 @@ layout: default
     <div class="callout">
       <h3>Poster session for students</h3>
       <p>Details on the award/prize for the best student poster — to be announced. Posters exploring how quantum approaches from other domains can be transferred to Earth Observation are especially encouraged.</p>
-      <p>Please note that by submitting an abstract you can be entiled by a travel grant; private communication will follow.</p>
+      <p>Please note that by submitting an abstract you may be entitled to a travel grant; private communication will follow.</p>
     </div>
   </div>
 </section>
