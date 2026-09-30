@@ -79,12 +79,12 @@ layout: default
       </thead>
       <tbody>
         <tr><td class="time">9:00–9:30</td><td>Introduction</td><td class="time"></td><td></td></tr>
-        <tr class="highlight"><td class="time">9:30–10:30</td><td>Keynote 1</td><td class="time">9:30–10:30</td><td>Keynote 4</td></tr>
+        <tr class="highlight"><td class="time">9:30–10:30</td><td>Prof. Paolo Gamba</td><td class="time">9:30–10:30</td><td>Dr. Artur Miroszewski</td></tr>
         <tr class="break"><td class="time">10:30–11:00</td><td>Coffee Break</td><td class="time">10:30–11:00</td><td>Coffee Break</td></tr>
-        <tr><td class="time">11:00–12:00</td><td>Keynote 2</td><td class="time">11:00–12:00</td><td>Keynote 5</td></tr>
-        <tr class="highlight"><td class="time">12:00–13:00</td><td>Keynote 3</td><td class="time">12:00–13:00</td><td>Keynote 6</td></tr>
+        <tr><td class="time">11:00–12:00</td><td>Dr. Lirandë Pira</td><td class="time">11:00–12:00</td><td>Prof. Piotr Gawron</td></tr>
+        <tr class="highlight"><td class="time">12:00–13:00</td><td>Prof. Mihai Datcu</td><td class="time">12:00–13:00</td><td>Dr. Johannes Jakubik</td></tr>
         <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch</td></tr>
-        <tr><td class="time">14:30–15:30</td><td>Keynote Bonus</td><td class="time">14:30–15:30</td><td>Keynote 7</td></tr>
+        <tr><td class="time">14:30–15:30</td><td>Dr. Fan Fan</td><td class="time">14:30–15:30</td><td>Spotlight Sessions</td></tr>
         <tr><td class="time">15:30–17:00</td><td>Poster Session</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
         <tr><td class="time">17:30–19:30</td><td>Walking together in Benevento</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
         <tr><td class="time">20:00</td><td><strong>Gala Dinner</strong></td><td class="time"></td><td></td></tr>
