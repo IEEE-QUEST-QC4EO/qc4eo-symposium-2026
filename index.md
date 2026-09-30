@@ -69,6 +69,7 @@ layout: default
       <thead><tr><th>Time</th><th>Session</th></tr></thead>
       <tbody>
         <tr><td class="time">Afternoon</td><td>Welcome reception &amp; registration</td></tr>
+        <tr><td class="time">17:30-19:30</td><td>Icebreaker Event</td></tr>
       </tbody>
     </table>
 
