@@ -86,6 +86,14 @@ speakers:
     affiliation: "TUM"
     photo: "/assets/img/speakers/fan.jpeg"
     web: "https://www.linkedin.com/in/fan-fan-900251160/"
+  - name: "Prof. Enrico Prati"
+    affiliation: "University of Milan"
+    photo: "/assets/img/speakers/eprati.jpeg"
+    web: "https://www.unimi.it/it/ugov/person/enrico-prati"
+  - name: "Prof. Antonio Feoli"
+    affiliation: "University of Sannio"
+    photo: "/assets/img/speakers/afeoli.jpeg"
+    web: "https://www.unisannio.it/it/user/553/curriculum"
 
 sponsors:
   - name: "IEEE"
