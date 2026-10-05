@@ -94,6 +94,10 @@ speakers:
     affiliation: "University of Sannio"
     photo: "/assets/img/speakers/afeoli.jpeg"
     web: "https://www.unisannio.it/it/user/553/curriculum"
+  - name: "Dr. Giuseppe Serpico"
+    affiliation: "Napoli Quantum Bay"
+    photo: "/assets/img/speakers/gserpico.jpeg"
+    web: "https://it.linkedin.com/in/giuseppe-serpico-743406417?trk=public_post_feed-actor-name"
 
 sponsors:
   - name: "IEEE"
