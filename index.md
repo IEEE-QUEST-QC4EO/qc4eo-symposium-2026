@@ -86,8 +86,8 @@ layout: default
         <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch</td></tr>
         <tr><td class="time">14:30–15:30</td><td>Keynote: Dr. Lirandë Pira</td><td class="time">14:30–15:30</td><td>Keynote: Dr. Fan Fan</td></tr>
         <tr><td class="time">15:30–17:00</td><td>Poster Session</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
-        <tr><td class="break">17:00–19:00</td><td>Free time</td></tr><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
-        <tr><td class="time">19:00–23.00</td><td><strong>Gala Dinner</strong></td><td class="time">17.30:19.30</td><td><strong>Benevento Walking Tour</strong></td></tr>
+        <tr><td class="time">17:00–19:00</td><td>Free time</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
+        <tr><td class="time">19:00–23:00</td><td><strong>Gala Dinner</strong></td><td class="time">17:30–19:30</td><td><strong>Benevento Walking Tour</strong></td></tr>
       </tbody>
     </table>
 
