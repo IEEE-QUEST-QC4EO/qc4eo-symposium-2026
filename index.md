@@ -68,8 +68,7 @@ layout: default
       <caption>Sunday, October 25 — Welcome</caption>
       <thead><tr><th>Time</th><th>Session</th></tr></thead>
       <tbody>
-        <tr><td class="time">Afternoon</td><td>Welcome reception &amp; registration</td></tr>
-        <tr><td class="time">17:30-19:30</td><td>Icebreaker Event</td></tr>
+        <tr><td class="time">17:30–19:30</td><td>Welcome reception &amp; registration &amp; Ice Breaker</td></tr>
       </tbody>
     </table>
 
@@ -79,16 +78,16 @@ layout: default
         <tr><th>26 October 2026</th><th></th><th>27 October 2026</th><th></th></tr>
       </thead>
       <tbody>
-        <tr><td class="time">9:00–9:30</td><td>Introduction</td><td class="time"></td><td></td></tr>
-        <tr class="highlight"><td class="time">9:30–10:30</td><td>Prof. Paolo Gamba</td><td class="time">9:30–10:30</td><td>Dr. Artur Miroszewski</td></tr>
+        <tr><td class="time">9:00–9:30</td><td>Introduction (QUEST QC4EO WG and Rector of University of Sannio)</td><td class="time">9:00–9:30</td><td>Spotlight Session: Prof. Antonio Feoli, Dr. Giuseppe Serpico</td></tr>
+        <tr class="highlight"><td class="time">9:30–10:30</td><td>Dr. Artur Miroszewski</td><td class="time">9:30–10:30</td><td>Prof. Paolo Gamba</td></tr>
         <tr class="break"><td class="time">10:30–11:00</td><td>Coffee Break</td><td class="time">10:30–11:00</td><td>Coffee Break</td></tr>
-        <tr><td class="time">11:00–12:00</td><td>Dr. Lirandë Pira</td><td class="time">11:00–12:00</td><td>Prof. Piotr Gawron</td></tr>
-        <tr class="highlight"><td class="time">12:00–13:00</td><td>Prof. Mihai Datcu</td><td class="time">12:00–13:00</td><td>Dr. Johannes Jakubik</td></tr>
-        <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch</td></tr>
-        <tr><td class="time">14:30–15:30</td><td>Dr. Fan Fan</td><td class="time">14:30–15:30</td><td>Spotlight Sessions</td></tr>
-        <tr><td class="time">15:30–17:00</td><td>Poster Session</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
-        <tr><td class="time">17:30–19:30</td><td>Walking together in Benevento</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
-        <tr><td class="time">20:00</td><td><strong>Gala Dinner</strong></td><td class="time"></td><td></td></tr>
+        <tr><td class="time">11:00–12:00</td><td>Prof. Enrico Prati</td><td class="time">11:00–12:00</td><td>Prof. Mihai Datcu</td></tr>
+        <tr class="highlight"><td class="time">12:00–13:00</td><td>Dr. Lirandë Pira</td><td class="time">12:00–13:00</td><td>Prof. Piotr Gawron</td></tr>
+        <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch (restaurant)</td></tr>
+        <tr><td class="time">14:30–15:30</td><td>Dr. Johannes Jakubik</td><td class="time">14:30–15:30</td><td>Dr. Fan Fan</td></tr>
+        <tr><td class="time">15:30–16:30</td><td>Poster Session (+ coffee break at 15:30)</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
+        <tr><td class="time">16:45–17:45</td><td>Walking together in Benevento</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
+        <tr><td class="time">20:30</td><td><strong>Gala Dinner</strong></td><td class="time"></td><td></td></tr>
       </tbody>
     </table>
 
