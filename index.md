@@ -19,12 +19,21 @@ layout: default
 </section>
 
 <section id="about">
-  <div class="section-inner">
+  <div class="section-inner"><tr><td class="time">9:00–9:30</td><td>Introduction (QUEST QC4EO WG and Rector of University of Sannio)</td><td class="time">9:00–9:30</td><td>Spotlight Session: Prof. Antonio Feoli, Dr. Giuseppe Serpico</td></tr>
+        <tr class="highlight"><td class="time">9:30–10:30</td><td>Keynote: Dr. Artur Miroszewski</td><td class="time">9:30–10:30</td><td>Keynote: Prof. Paolo Gamba</td></tr>
+        <tr class="break"><td class="time">10:30–11:00</td><td>Coffee Break</td><td class="time">10:30–11:00</td><td>Coffee Break</td></tr>
+        <tr><td class="time">11:00–12:00</td><td>Keynote: Prof. Enrico Prati</td><td class="time">11:00–12:00</td><td>Keynote: Dr. Johannes Jakubik</td></tr>
+        <tr class="highlight"><td class="time">12:00–13:00</td><td>Keynote: Prof. Mihai Datcu</td><td class="time">12:00–13:00</td><td>Keynote: Prof. Piotr Gawron</td></tr>
+        <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch</td></tr>
+        <tr><td class="time">14:30–15:30</td><td>Keynote: Dr. Lirandë Pira</td><td class="time">14:30–15:30</td><td>Keynote: Dr. Fan Fan</td></tr>
+        <tr><td class="time">15:30–17:00</td><td>Poster Session</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
+        <tr><td class="time">17:00–19:00</td><td>Free time</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
+        <tr><td class="time">19:00–23:00</td><td><strong>Gala Dinner</strong></td><td class="time">17:30–19:30</td><td><strong>Benevento Walking Tour</strong></td></tr>
     <p class="section-label">About</p>
     <div class="prose">
       <p>{{ site.event.acronym }} is organized by the <strong>QC4EO Working Group</strong>, part of the IEEE Geoscience and Remote Sensing Society (GRSS) <a href="https://www.grss-ieee.org/technical-committees/quantum-earth-science-and-technology-quest/" target="_blank" rel="noopener">QUEST</a> technical committee.</p>
       <p>The workshop focuses primarily on quantum computing and quantum machine learning for Earth Observation, but we equally welcome contributions on quantum technologies for Earth Observation more broadly, and on quantum technologies in general. We are particularly interested in work that explores how approaches developed in other domains can be transferred into the Earth Observation field.</p>
-      <p>The goal is to introduce students and early-career researchers to this rapidly growing field, encourage their involvement in research activities, and give an overview of the main international organizations and initiatives in quantum technologies — with a particular focus on future directions.</p>
+      <p>The goal is to introduce students and early-career researchers to this rapidly growing field, encourage their involvement in research activities, and give an overview of the main international organizations and initiatives in quantum technologies, with a particular focus on future directions.</p>
       <p>The program includes invited talks of approximately one hour, a poster session, and a social dinner, designed to foster discussion and exchange among invited speakers, students, and early-career researchers.</p>
     </div>
   </div>
@@ -78,16 +87,7 @@ layout: default
         <tr><th>26 October 2026</th><th></th><th>27 October 2026</th><th></th></tr>
       </thead>
       <tbody>
-        <tr><td class="time">9:00–9:30</td><td>Introduction (QUEST QC4EO WG and Rector of University of Sannio)</td><td class="time">9:00–9:30</td><td>Spotlight Session: Prof. Antonio Feoli, Dr. Giuseppe Serpico</td></tr>
-        <tr class="highlight"><td class="time">9:30–10:30</td><td>Dr. Artur Miroszewski</td><td class="time">9:30–10:30</td><td>Prof. Paolo Gamba</td></tr>
-        <tr class="break"><td class="time">10:30–11:00</td><td>Coffee Break</td><td class="time">10:30–11:00</td><td>Coffee Break</td></tr>
-        <tr><td class="time">11:00–12:00</td><td>Prof. Enrico Prati</td><td class="time">11:00–12:00</td><td>Prof. Mihai Datcu</td></tr>
-        <tr class="highlight"><td class="time">12:00–13:00</td><td>Dr. Lirandë Pira</td><td class="time">12:00–13:00</td><td>Prof. Piotr Gawron</td></tr>
-        <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch (restaurant)</td></tr>
-        <tr><td class="time">14:30–15:30</td><td>Dr. Johannes Jakubik</td><td class="time">14:30–15:30</td><td>Dr. Fan Fan</td></tr>
-        <tr><td class="time">15:30–16:30</td><td>Poster Session (+ coffee break at 15:30)</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
-        <tr><td class="time">16:45–17:45</td><td>Walking together in Benevento</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
-        <tr><td class="time">20:30</td><td><strong>Gala Dinner</strong></td><td class="time"></td><td></td></tr>
+        
       </tbody>
     </table>
 
