@@ -79,12 +79,12 @@ layout: default
       </thead>
       <tbody>
         <tr><td class="time">9:00–9:30</td><td>Introduction (QUEST QC4EO WG and Rector of University of Sannio)</td><td class="time">9:00–9:30</td><td>Spotlight Session: Prof. Antonio Feoli, Dr. Giuseppe Serpico</td></tr>
-        <tr class="highlight"><td class="time">9:30–10:30</td><td>Keynote: Dr. Artur Miroszewski</td><td class="time">9:30–10:30</td><td>Keynote: Prof. Paolo Gamba</td></tr>
+        <tr class="highlight"><td class="time">9:30–10:30</td><td>Keynote: Dr. Artur Miroszewski</td><td class="time">9:30–10:30</td><td>Keynote: Dr. Lirandë Pira</td></tr>
         <tr class="break"><td class="time">10:30–11:00</td><td>Coffee Break</td><td class="time">10:30–11:00</td><td>Coffee Break</td></tr>
         <tr><td class="time">11:00–12:00</td><td>Keynote: Prof. Enrico Prati</td><td class="time">11:00–12:00</td><td>Keynote: Dr. Johannes Jakubik</td></tr>
         <tr class="highlight"><td class="time">12:00–13:00</td><td>Keynote: Prof. Mihai Datcu</td><td class="time">12:00–13:00</td><td>Keynote: Prof. Piotr Gawron</td></tr>
         <tr class="break"><td class="time">13:00–14:30</td><td>Lunch</td><td class="time">13:00–14:30</td><td>Lunch</td></tr>
-        <tr><td class="time">14:30–15:30</td><td>Keynote: Dr. Lirandë Pira</td><td class="time">14:30–15:30</td><td>Keynote: Dr. Fan Fan</td></tr>
+        <tr><td class="time">14:30–15:30</td><td>Keynote: Prof. Paolo Gamba</td><td class="time">14:30–15:30</td><td>Keynote: Dr. Fan Fan</td></tr>
         <tr><td class="time">15:30–17:00</td><td>Poster Session</td><td class="time">15:30–17:00</td><td>Panel Discussion</td></tr>
         <tr><td class="time">17:00–19:00</td><td>Free time</td><td class="time">17:00–17:30</td><td>Closing Remarks</td></tr>
         <tr><td class="time">19:00–23:00</td><td><strong>Gala Dinner</strong></td><td class="time">17:30–19:30</td><td><strong>Benevento Walking Tour</strong></td></tr>
