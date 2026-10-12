@@ -118,9 +118,9 @@ sponsors:
   - name: "Intelligentia"
     logo: "/assets/img/logos/intelligentia.svg"
     url: "https://www.intelligentia.eu/it/"
-  - name: "CMCC"
-    logo: "/assets/img/logos/cmcc-logo.png"
-    url: "https://www.cmcc.it/it"
+  #- name: "CMCC"
+  #  logo: "/assets/img/logos/cmcc-logo.png"
+  #  url: "https://www.cmcc.it/it"
 
 markdown: kramdown
 plugins:
