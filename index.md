@@ -64,6 +64,8 @@ layout: default
     <p class="section-label">Agenda</p>
     <h2 class="section-title">Program</h2>
 
+   <p> https://docs.google.com/document/d/1rjb3voF1k_p_P80ttA2xm9tT-Ba1RDXjZZSUqiPUQoU/edit?usp=sharing </p>
+
         <table class="agenda-table">
       <caption>Sunday, October 25 — Welcome</caption>
       <thead><tr><th>Time</th><th>Session</th></tr></thead>
