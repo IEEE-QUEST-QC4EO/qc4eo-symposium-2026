@@ -69,7 +69,7 @@ layout: default
       <thead><tr><th>Time</th><th>Session</th></tr></thead>
       <tbody>
         <tr><td class="time">17:30–19:30</td><td>Welcome reception &amp; registration &amp; Ice Breaker</td></tr>
-        <tr><td class="time">19:30–23:00</td><td><strong>Ice Breaker Dinner</strong> — Palazzo Paolo V</td></tr>
+        <tr><td class="time">19:30–23:00</td><td><strong>AperiDinner</strong> — Palazzo Paolo V</td></tr>
       </tbody>
     </table>
 
